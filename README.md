@@ -1,4 +1,4 @@
-# UPXtreme-RT-kernel
+# UPXtreme-RT-kernel Ubuntu 20.04.3 LTS (Focal Fossa)
 PREEMPT_RT kernel on UP! Xtreme based on UP! kernel hwe-5.4-upboard.
 Only tested on UP Xtreme i7C1-8565U
 

@@ -68,6 +68,16 @@ disable the CPU idle state and to set the default CPU frequency governor to perf
 ## Optional isolcpus 
 To check.
 
+## Optional kernel configuration 
+In your kernel configuration file you will find this line:
+``CONFIG_SYSTEM_TRUSTED_KEYS="debian/canonical-certs.pem"``
+
+Change it to this:
+``CONFIG_SYSTEM_TRUSTED_KEYS=""``
+
+
+
+
 
 ## Building 
 
